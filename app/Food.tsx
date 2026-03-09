@@ -125,7 +125,7 @@ export default function FoodWeb() {
 
           {/* Logo */}
           <a href="/" style={{ display:"flex", alignItems:"center", gap:8, textDecoration:"none", flexShrink:0 }}>
-            <div style={{ width:28, height:28, background:"#1a7a3f", borderRadius:7, display:"flex", alignItems:"center", justifyContent:"center", fontSize:14 }}>🌿</div>
+           
             <span style={{ fontSize:16.5, fontWeight:700, color:"#1a1a1a", letterSpacing:"-.3px" }}>
               The<span style={{ color:"#1a7a3f" }}>Heritage Co</span>
             </span>
