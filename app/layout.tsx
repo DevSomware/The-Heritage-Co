@@ -23,11 +23,11 @@ export const metadata: Metadata = {
   // ── Core ──────────────────────────────────────────────────────────────────
   metadataBase: new URL(SITE_URL),
   title: {
-    default: "The Heritage Co - Fresh Food & Groceries Delivered in 45 Minutes",
+    default: "The Heritage Co - Fresh Food & Groceries Delivered in 3 to 5 days",
     template: "%s | The Heritage Co",
   },
   description:
-    "Buy fresh fruits, vegetables, dairy & organic groceries online. Every product lab tested & FSSAI certified. Farm-direct, delivered in 45 minutes across India.",
+    "Buy fresh fruits, vegetables, dairy & organic groceries online. Every product lab tested & FSSAI certified. Farm-direct, delivered in 3 to 5 days across India.",
   keywords: [
     "fresh food delivery India",
     "buy groceries online",
@@ -60,9 +60,9 @@ export const metadata: Metadata = {
     locale: "en_IN",
     url: SITE_URL,
     siteName: SITE_NAME,
-    title: "The Heritage Co — Fresh Food & Groceries Delivered in 45 Minutes",
+    title: "The Heritage Co — Fresh Food & Groceries Delivered in 3 to 5 days",
     description:
-      "Farm-direct fresh food, lab tested & FSSAI certified. Fruits, vegetables, dairy & organic groceries delivered in 45 min.",
+      "Farm-direct fresh food, lab tested & FSSAI certified. Fruits, vegetables, dairy & organic groceries delivered in 3 to 5 days.",
     images: [
       {
         url: "/logo.png",       // place a 1200×630 image in /public
@@ -79,7 +79,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     site: TWITTER_HANDLE,
     creator: TWITTER_HANDLE,
-    title: "The Heritage Co — Fresh Food Delivered in 45 Minutes",
+    title: "The Heritage Co — Fresh Food Delivered in 3 to 5 days",
     description:
       "Lab tested, FSSAI certified. Farm-direct fresh food delivered fast.",
     images: ["/logo.png"],
